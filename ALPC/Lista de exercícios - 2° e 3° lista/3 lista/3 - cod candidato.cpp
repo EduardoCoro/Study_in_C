@@ -1,0 +1,34 @@
+#include<conio.h>
+#include<stdio.h>
+
+main()
+{
+	int cod=0;
+	
+		
+	printf("Digita o código(1,2,3,4) : \n");
+	scanf("%i",&cod);
+    
+	if(cod==1)
+	{
+		printf("candidato 'Chaves'");
+	}
+	else if (cod==2)
+	{
+		printf("Candidato 'Quico'");
+	}
+	else if (cod==3)
+	{
+		printf("Candidato 'D.Florinda'");
+	}
+	else if (cod==4)
+	{
+		printf("candidato 'Seu Madruga'");
+	}
+	else
+	{
+		printf("Código errado !");
+	}
+	
+getch();
+}

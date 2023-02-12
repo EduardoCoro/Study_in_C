@@ -1,0 +1,19 @@
+---------------- Projeto Soma em C ------------
+
+#include<conio.H>
+#include<STdio.H>
+
+main()
+
+{
+
+int a,b,c;
+
+  printf("Digite um número: \n");
+  scanf("%i",&a);
+  printf("Digite outro número: \n");
+  scanf("%i",&b);
+  c=a+b;
+  printf("O valor é : %i",c);
+  getch();
+}

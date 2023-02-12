@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1511457608 source:c:\users\marcos\desktop\ads\2° semestre\lógica de programação\rg_cpf\estrutura_rg_cpf\main.c
+	<locale.h>
+
+1511461654 source:c:\users\marcos\desktop\ads\2° semestre\lógica de programação\rg_cpf\estrutura_rg_cpf\tet.c
+	<stdio.h>
+	<locale.h>
+
+1511454010 source:f:\ads\2 ° semestre\lógica de programação\rg_cpf\estrutura_rg_cpf\main.c
+	<locale.h>
+
+1511458306 source:f:\ads\2 ° semestre\lógica de programação\rg_cpf\estrutura_rg_cpf\tet.c
+	<stdio.h>
+	<locale.h>
+

@@ -1,0 +1,30 @@
+# depslib dependency file v1.0
+1510852687 source:d:\fatec\2017-2\lp-tarde\arquivos\exe01.c
+
+1510853134 source:d:\fatec\2017-2\lp-tarde\arquivos\exe02.c
+	<stdio.h>
+
+1510853847 source:d:\fatec\2017-2\lp-tarde\arquivos\exe03.c
+	<stdio.h>
+
+1510854064 source:d:\fatec\2017-2\lp-tarde\arquivos\exe04.c
+	<stdio.h>
+
+1510854838 source:d:\fatec\2017-2\lp-tarde\arquivos\exe05.c
+	<stdio.h>
+
+1510855277 source:d:\fatec\2017-2\lp-tarde\arquivos\exe06.c
+	<stdio.h>
+
+1510856641 source:d:\fatec\2017-2\lp-tarde\arquivos\exe07.c
+	<stdio.h>
+
+1510856497 source:d:\fatec\2017-2\lp-tarde\arquivos\exe08.c
+	<stdio.h>
+
+1510849042 source:d:\fatec\2017-2\lp-tarde\arquivos\exe09.c
+	<locale.h>
+
+1510856625 source:d:\fatec\2017-2\lp-tarde\arquivos\exe06b.c
+	<stdio.h>
+

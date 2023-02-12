@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1510067577 source:c:\users\marcos\desktop\ads\2° semestre\lógica de programação\trabalho-01\trb_01\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+
+1510232044 source:f:\ads\2 ° semestre\lógica de programação\trabalho-01\trb_01\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+

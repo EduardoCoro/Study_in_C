@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1502736300 source:c:\users\marcos\desktop\ads\2° semestre\lógica de programação\jogo do par,impar\par e impar\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+

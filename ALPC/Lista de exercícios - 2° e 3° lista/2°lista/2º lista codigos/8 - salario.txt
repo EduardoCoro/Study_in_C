@@ -1,0 +1,33 @@
+#include<conio.h>
+#include<stdio.h>
+
+main()
+{
+	float sal=0,aumento=0;
+	
+	
+	
+	printf("Digita o salário : \n");
+	scanf("%f",&sal);
+	
+	
+	if(sal > 2500)
+	{
+		aumento=sal + (sal * (10/100) );
+
+	        printf("O novo salário é de %f",aumento);
+
+	}
+
+	else
+	
+        {   
+
+          aumento=sal + (sal * (25/100) );
+
+	  printf("O novo salário é de %f",aumento); 
+
+        }
+	
+	getch();
+}

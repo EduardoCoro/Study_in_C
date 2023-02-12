@@ -1,0 +1,43 @@
+#include<conio.h>
+#include<stdio.h>
+
+main()
+{
+
+        char opç;
+	float v1=0;
+	
+	printf("Digita a opção da moeda (E/L/D/I) : \n");
+	scanf("%c",&opç);
+	
+	printf("Digita o valor R$: \n");
+	scanf("%f",&v1);
+	
+    
+	if(opç=='E' || opç=='e')
+	{
+                v1= v1/2.617;
+		printf("O valor em Euro é : R$ %f",v1);
+	}
+	    else if (opç=='L' || opç=='l')
+	    {
+                v1= v1/3.816;
+		printf("O valor em Libra é : R$ %f",v1);
+	    }
+       else if (opç=='D' || opç=='d')
+	    {
+                v1= v1/2.071;
+		printf("O valor em Dolar é : R$ %f",v1);
+	     }
+       else if (opç=='I' || opç=='i')
+	   {
+                v1= v1/0.018;
+		printf("O valor em Iene é : R$ %f",v1);
+	   }
+	else
+	{
+		printf("Opção Incorreta ! ");
+	}
+	
+    getch();
+}

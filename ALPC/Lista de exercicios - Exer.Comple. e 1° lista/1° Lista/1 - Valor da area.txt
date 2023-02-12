@@ -1,0 +1,15 @@
+#include<conio.h>
+#include<stdio.h>
+#include<math.h>
+
+main()
+
+{
+   float area,r;
+
+   printf("Digite o raio da area : \n");
+   scanf("%f",&r);
+   area=3.14* pow(r,2);
+   printf("A area é : %f",area);
+   getch();
+}

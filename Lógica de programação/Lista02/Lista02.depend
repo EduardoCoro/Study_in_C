@@ -1,0 +1,63 @@
+# depslib dependency file v1.0
+1506003402 source:c:\users\marcos\desktop\ads\2° semestre\lógica de programação\2_lista_trabalho\lista02\1_a.c
+
+1506002264 source:c:\users\marcos\desktop\ads\2° semestre\lógica de programação\2_lista_trabalho\lista02\main.c
+	<stdlib.h>
+
+1506016981 source:c:\users\marcos\desktop\ads\2° semestre\lógica de programação\2_lista_trabalho\lista02\1_b.c
+	<stdio.h>
+
+1506011965 source:c:\users\marcos\desktop\ads\2° semestre\lógica de programação\2_lista_trabalho\lista02\2-ex.c
+
+1506015863 source:c:\users\marcos\desktop\ads\2° semestre\lógica de programação\2_lista_trabalho\lista02\2-a.c
+	<stdio.h>
+	<stdlib.h>
+
+1506019777 source:c:\users\marcos\desktop\ads\2° semestre\lógica de programação\2_lista_trabalho\lista02\2.c
+	<stdio.h>
+	<stdlib.h>
+
+1506031654 source:f:\ads\2 ° semestre\lógica de programação\lista02\1_a.c
+	<stdio.h>
+
+1506036926 source:f:\ads\2 ° semestre\lógica de programação\lista02\1_b.c
+	<stdio.h>
+
+1506031590 source:f:\ads\2 ° semestre\lógica de programação\lista02\2.c
+	<stdio.h>
+	<stdlib.h>
+
+1506031534 source:f:\ads\2 ° semestre\lógica de programação\lista02\3.c
+	<stdio.h>
+
+1506002266 source:f:\ads\2 ° semestre\lógica de programação\lista02\main.c
+	<stdlib.h>
+
+1506041158 source:f:\ads\2 ° semestre\lógica de programação\lista02\vetor_char.c
+	<stdio.h>
+	<stdlib.h>
+
+1506031654 source:g:\ads\2 ° semestre\lógica de programação\lista02\1_a.c
+	<stdio.h>
+
+1507181526 source:g:\ads\2 ° semestre\lógica de programação\lista02\2.c
+	<stdio.h>
+	<stdlib.h>
+
+1507182022 source:g:\ads\2 ° semestre\lógica de programação\lista02\3.c
+	<stdio.h>
+
+1506002266 source:g:\ads\2 ° semestre\lógica de programação\lista02\main.c
+	<stdlib.h>
+
+1507182166 source:g:\ads\2 ° semestre\lógica de programação\lista02\vetor_char.c
+	<stdio.h>
+	<stdlib.h>
+
+1507181330 source:g:\ads\2 ° semestre\lógica de programação\lista02\1_b.c
+	<stdio.h>
+
+1507181256 source:g:\ads\2 ° semestre\lógica de programação\lista02\caracteress.c
+	<stdio.h>
+	<stdlib.h>
+

@@ -1,0 +1,17 @@
+#include<conio.h>
+#include<stdio.h>
+
+main()
+
+{
+
+float ct,d,r;
+
+  printf("Digite a cotação do Dolar : \n");
+  scanf("%f",&ct);
+  printf("Digite o valor em dólares : \n");
+  scanf("%f",&d);
+  r=ct*d;
+  printf("O valor será : %f",r);
+  getch();
+}

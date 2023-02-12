@@ -1,0 +1,30 @@
+#include<conio.h>
+#include<stdio.h>
+
+main()
+{
+	char st;
+        float sal=0,result=0;
+	
+	
+	
+	printf("Seu setor é de Venda (s/n) ? \n");
+	scanf("%c",&st);
+	printf("Digita o seu salário :  \n");
+	scanf("%f",&sal);
+
+	
+	
+	if(st=='s' || st=='S')
+	{
+		result=sal + (sal * (32.22/100) );
+		printf("O Salário final é de : R$ %f",result);
+	}
+	else
+	{
+		
+		printf("O Salário final é de : R$ %f",sal);
+	}
+	
+	getch();
+}

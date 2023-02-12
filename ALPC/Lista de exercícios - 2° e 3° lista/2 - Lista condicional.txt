@@ -1,0 +1,30 @@
+2- Lista de Exercícios-Estrutura Condicional Simples e Composta
+
+
+1) Crie um programa para entrada de um número inteiro X. Se número maior ou igual a 100 emitir uma mensagem dizendo "Número maior ou igual a 100”, senão, emitir uma mensagem dizendo "Número menor que 100”.
+
+
+
+2)Faça um programa para calcular o peso ideal de uma pessoa adulta. Entrar com o sexo 'm' para masculino e 'f' para feminino e a altura. Se sexo for igual a 'm' usar a formula: PI=altura2 * 23. Senão, usar a formula: PI=altura2 * 22. 
+
+  
+
+3) Crie um programa que pergunte a idade de uma pessoa. Caso esta pessoa tenha entre 0 e 17 anos, o programa deverá emitir uma mensagem informando quantos anos faltam para a sua maioridade. Ex.: "Você é menor de idade e falta ...... anos para completar a maioridade.” Caso a pessoa seja maior de 18, emitir a mensagem "Você é maior de idade há .... anos!!.
+
+     
+4)Desenvolver um programa, na Linguagem C, que leia um número inteiro e verifique se este é divisível por 5 e por 3 ao mesmo tempo.
+
+     
+5)Faça um programa, na Linguagem C, que o usuário forneça o setor que trabalha e o salário. Caso o setor seja de Venda 'V', ele terá um aumento de 32.22% no salário. Apresentar o salário final.
+
+     
+6)Faça um programa, na Linguagem C, que o usuário digite um número e ache a raiz quadrada desse número. Se a raíz quadrada for maior que 7, some mais 3. Apresente o novo número no final. 
+
+      
+7)Faça um programa em linguagem C que o usuário forneça um número e verifique se número é par ou ímpar.
+
+
+8)Faça um programa que o usuário forneça o salário do funcionário. Se o salário do funcionário for maior que R$ 2.500,00, dê um aumento de 10%, senão dê um aumento de 25%. Mostre o novo salário. 
+
+      
+9)Crie um programa onde, entrar com dois valores pelo teclado, A e B. Admitindo que o usuário não digite dois valores iguais, exibir qual o maior e o menor valor.
